@@ -28,5 +28,5 @@
 - mghimire@clarku.edu
 
 🔥 Fun Fact and Beyond Data:
-  When I’m not working and learning about data, you can find me writing poems, dancing, playing tennis, or exploring new places. I’m deeply passionate about supporting differently abled communities and continually strive to make a positive impact in this area. 
+  When I’m not working and learning about data, you can find me writing poems, dancing, playing tennis, or exploring new places. I’m deeply passionate about supporting differently-abled communities and continually strive to make a positive impact in this area. 
 
