@@ -9,17 +9,18 @@ Machine Learning: Scikit-learn, Statsmodels   |
 Version Control: Git, GitHub  
 
 🌱 Currently Working On:
-Building a data warehouse to optimize sales analysis and decision-making for retail companies.
-Creating a healthcare dashboard to track operational, financial, and quality metrics.
+- Building a data warehouse to optimize sales analysis and decision-making for retail companies.
+- Creating a healthcare dashboard to track operational, financial, and quality metrics.
+
 
 👩‍💻 My Previous Experience:
-Junior Data Analyst and Finance Officer at The Arnhem Land Progress Aboriginal Corporation
-Analyzed retail data and financial reports to identify key trends, helping stakeholders make data-driven decisions.
-Developed dashboards and reports to monitor sales performance and optimize financial operations.
+- Junior Data Analyst and Finance Officer at The Arnhem Land Progress Aboriginal Corporation
+- Analyzed retail data and financial reports to identify key trends, helping stakeholders make data-driven decisions.
+- Developed dashboards and reports to monitor sales performance and optimize financial operations.
 
 📚 Currently Learning:
-Advanced machine learning algorithms and model optimization techniques.
-Enhancing skills in data engineering and cloud computing.
+-Advanced machine learning algorithms and model optimization techniques.
+-Enhancing skills in data engineering and cloud computing.
 
 💬 Let's Connect:
 www.linkedin.com/in/mandirag | 
