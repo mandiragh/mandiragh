@@ -25,12 +25,6 @@ Enhancing skills in data engineering and cloud computing.
 www.linkedin.com/in/mandirag | 
 mghimire@clarku.edu
 
+🔥 Fun Fact and Beyond Data:
+ When I’m not working and learning about data, you can find me writing poems, dancing, playing tennis, or exploring new places. I’m deeply passionate about supporting differently abled communities and continually strive to make a positive impact in this area. 
 
-
-
-
-
-<!---
-mandiragh/mandiragh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
