@@ -22,7 +22,7 @@ Advanced machine learning algorithms and model optimization techniques.
 Enhancing skills in data engineering and cloud computing.
 
 💬 Let's Connect:
-www.linkedin.com/in/mandirag 
+www.linkedin.com/in/mandirag | 
 mghimire@clarku.edu
 
 
