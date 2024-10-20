@@ -1,12 +1,12 @@
 👋 Hi, I’m Mandira Ghimire. I’m a graduate student in Data Analytics with a background in accounting and experience working as a Junior Data Analyst and Finance Officer. 
 
 🛠️ Skills & Tools:
-Languages: Python, SQL, R
-Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, ggplot
-Databases: MySQL, PostgreSQL, SQLite
-Data Analysis: Pandas, NumPy, Excel
-Machine Learning: Scikit-learn, Statsmodels
-Version Control: Git, GitHub
+Languages: Python, SQL, R  |  
+Data Visualization: Tableau, Power BI, Matplotlib, Seaborn, ggplot   |  
+Databases: MySQL, PostgreSQL, SQLite  |  
+Data Analysis: Pandas, NumPy, Excel  |  
+Machine Learning: Scikit-learn, Statsmodels   |
+Version Control: Git, GitHub  
 
 🌱 Currently Working On:
 Building a data warehouse to optimize sales analysis and decision-making for retail companies.
