@@ -62,7 +62,7 @@ A multilingual, culturally tailored GenAI tool to bridge the information gap for
 
 ## 📄 Certificates & Hackathons
 - 🎓 Quantium, Tata, BCG X, Standard Chartered (Forage Simulations)
-- 🏅 Harvard Rare Disease Hackathon Finalist
+- 🏅 Harvard Rare Disease Hackathon
 - 🧠 WiDS Datathon 2025 Participant
 - 💡 BU Spark Civic Hackathon – AI4ADHD Chrome Extension
 
