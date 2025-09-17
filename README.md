@@ -1,5 +1,5 @@
-                          # **👩‍💻 Mandira Ghimire**
-| Data Analytics Graduate | Problem-Solver | Emerging AI Enthusiast 
+# 👩‍💻 Mandira Ghimire 
+# | Data Analytics Graduate | Problem-Solver | Emerging AI Enthusiast
 
 Hello and welcome! I'm **Mandira**, a passionate and purpose-driven Data Analytics graduate student at **Clark University**, graduating in **December 2025**. With real-world experience in analytics across **healthcare**, **advertising**, and **finance**, I'm actively seeking **Data Analyst, Business Analyst**, or **ML Analyst (entry-level)** roles.
 
